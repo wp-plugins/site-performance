@@ -1,4 +1,4 @@
-=== File Inspection ===
+=== Site Performance ===
 Contributors: hccoder
 Donate link: 
 Tags: performance, page performance, memory usage, render time, wordpress performance
